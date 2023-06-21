@@ -1,6 +1,6 @@
 variable "name" {
   type = string
-  default = "podx-vm-01"
+  default = "pod36-vm-01"
 }
 
 variable "env" {
@@ -15,5 +15,5 @@ variable "owner" {
 
 variable "key_pair_name" {
   type = string
-  default = "sre_podx_key"
+  default = "sre_pod36_key"
 }
